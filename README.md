@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-<!--
-**mariamagro/mariamagro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am María Ángeles Magro Garrote, a Data Science & Engineering student at UC3M. Currently, I am finishing my 3rd year. Here, you will find some of the projects in which I have been enrolled. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+My focus is set on:
+* Machine Learning 
+* Deep learning (Pytorch)
+* Data Science (R for regression and classification)
+* Data Analysis (Pandas, NumPy)
+* Web Applications (HTML, CSS, Jinja, Javascript, SQL)
