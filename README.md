@@ -8,3 +8,5 @@ My focus is set on:
 * Data Science (R for regression and classification)
 * Data Analysis (Pandas, NumPy)
 * Web Applications (HTML, CSS, Jinja, Javascript, SQL)
+
+Feel free to contact me via Linkedin! 
