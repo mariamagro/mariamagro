@@ -5,8 +5,8 @@ I am María Ángeles Magro Garrote, a Data Science & Engineering student at UC3M
 My focus is set on:
 * Machine Learning 
 * Deep learning (Pytorch)
-* Data Science (R for regression and classification)
-* Data Analysis (Pandas, NumPy)
+* Data Science (R and Python)
+* Data Analysis 
 * Web Applications (HTML, CSS, Jinja, Javascript, SQL)
 
 Feel free to contact me via Linkedin! 
