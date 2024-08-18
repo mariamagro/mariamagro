@@ -16,13 +16,18 @@ Feel free to explore my repositories and connect with me!
 
 | Repository | Description |
 |------------|-------------|
-| [**RNN_Sentiment_Analysis**](https://github.com/yourusername/RNN_Sentiment_Analysis) | 🌟 Sentiment analysis using RNNs and attention mechanisms to improve text classification. |
-| [**Deep_Autoencoders_MNIST_FMNIST**](https://github.com/yourusername/Deep_Autoencoders_MNIST_FMNIST) | 🧠 Explore deep autoencoders on MNIST & FMNIST datasets. Includes denoising, regularization, and architecture experiments. |
-| [**CNN_Bird_Cat_Classification**](https://github.com/yourusername/CNN_Bird_Cat_Classification) | 🐦 vs 🐱 CNN-based classifier using the CIFAR-10 dataset. |
-| [**Exploring_Variational_Autoencoders_Gaussian_Mixture_Models**](https://github.com/yourusername/Exploring_Variational_Autoencoders_Gaussian_Mixture_Models) | 🔀 Dive into VAEs for 3D Gaussian Mixture Models. Synthetic data generation & modeling. |
-| [**Pacman_Reinforcement**](https://github.com/yourusername/Pacman_Reinforcement) | 🕹️ Building AI for Pac-Man using decision trees and reinforcement learning. |
-| [**Flask_Web_Application**](https://github.com/yourusername/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
-| [**Bayesian_Case_Study**](https://github.com/yourusername/Bayesian_Case_Study) | 🌌 Predict hazardous NEOs using Bayesian methods on NASA datasets. |
+| [**RNN_Sentiment_Analysis**](https://github.com/mariamagro/RNN_Sentiment_Analysis) | 🌟 Sentiment analysis using RNNs and attention mechanisms to improve text classification. |
+| [**Deep_Autoencoders_MNIST_FMNIST**](https://github.com/mariamagro/Deep_Autoencoders_MNIST_FMNIST) | 🧠 Explore deep autoencoders on MNIST & FMNIST datasets. Includes denoising, regularization, and architecture experiments. |
+| [**CNN_Bird_Cat_Classification**](https://github.com/mariamagro/CNN_Bird_Cat_Classification) | 🐦 vs 🐱 CNN-based classifier using the CIFAR-10 dataset. |
+| [**Exploring_Variational_Autoencoders_Gaussian_Mixture_Models**](https://github.com/mariamagro/Exploring_Variational_Autoencoders_Gaussian_Mixture_Models) | 🔀 Dive into VAEs for 3D Gaussian Mixture Models. Synthetic data generation & modeling. |
+| [**Pacman_Reinforcement**](https://github.com/mariamagro/Pacman_Reinforcement) | 🕹️ Building an agent for Pac-Man using reinforcement learning. |
+| [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
+| [**Bayesian_Case_Study**](https://github.com/mariamagro/Bayesian_Case_Study) | 🌌 Predict hazardous NEOs using Bayesian methods on NASA datasets. |
+| [**Machine_Learning_Applications**](https://github.com/mariamagro/Machine_Learning_Applications) | 🖥️ Forum enhancement project utilizing advanced data analysis: web scraping, text preprocessing, vectorization, clustering, sentiment analysis, and topic modeling. |
+
+---
+
+More repositories are available in the [repository tab](https://github.com/mariamagro?tab=repositories). Feel free to explore!
 
 ---
 
