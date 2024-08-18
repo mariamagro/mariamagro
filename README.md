@@ -57,16 +57,3 @@ Feel free to explore my repositories and connect with me!
 </p>
 
 ---
-
-### 🤔 Fun Fact!
-
-<details>
-  <summary>Click to reveal a fun fact about me! 😊</summary>
-  I once participated in a Kaggle competition with a machine learning model that predicted house prices — and finished in the top 10%! 🏆
-</details>
-
----
-
-### ✨ Show Your Support
-
-If you like what you see, don't forget to give my repositories a ⭐! Your support keeps me motivated and ready to create more cool projects.
