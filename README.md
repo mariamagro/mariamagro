@@ -42,14 +42,6 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-### 🌟 Featured Projects
-
-- [RNN Sentiment Analysis](https://github.com/yourusername/RNN_Sentiment_Analysis) - RNNs with attention for sentiment classification
-- [CNN Bird vs Cat Classifier](https://github.com/yourusername/CNN_Bird_Cat_Classification) - Calibrating CNNs for image classification
-- [Bayesian Case Study](https://github.com/yourusername/Bayesian_Case_Study) - Predicting hazardous Near-Earth Objects using Bayesian methods
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
