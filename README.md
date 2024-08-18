@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile! I'm passionate about **Machine Learning, Deep Learning**, and **Data Science**. I enjoy working on challenging problems, especially in **Neural Networks** and **Statistical Learning**.
 
+I'm currently a **final-year Data Science and Engineering student** at **Universidad Carlos III de Madrid (UC3M)**. I completed a **9-month internship** at **Vodafone Spain** in the **Digital & IT department**, and I am now working as a **Technician at LODCoreMadrid (UC3M)**, focusing on **open and linked data**.
+
 Feel free to explore my repositories and connect with me!
 
 ---
