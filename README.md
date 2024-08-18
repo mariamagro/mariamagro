@@ -1,12 +1,7 @@
-<!-- Header Image -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Welcome" width="600" height="300"/>
-</p>
-
 <!-- Greetings -->
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm María Ángeles Magro Garrote
 
-Welcome to my GitHub profile! I'm passionate about **Machine Learning, Deep Learning**, and **Data Science**. I enjoy working on challenging problems, especially in **Neural Networks, Autoencoders**, and **Statistical Learning**.
+Welcome to my GitHub profile! I'm passionate about **Machine Learning, Deep Learning**, and **Data Science**. I enjoy working on challenging problems, especially in **Neural Networks** and **Statistical Learning**.
 
 Feel free to explore my repositories and connect with me!
 
@@ -42,16 +37,6 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-### 📊 Stats
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top languages" width="400"/>
-</p>
-
----
-
 ### 🌟 Featured Projects
 
 - [RNN Sentiment Analysis](https://github.com/yourusername/RNN_Sentiment_Analysis) - RNNs with attention for sentiment classification
@@ -63,19 +48,25 @@ Feel free to explore my repositories and connect with me!
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/maria-angeles-magro-garrote/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:mamgmadrid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph
+### 🤔 Fun Fact!
 
-<!-- GitHub activity graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=github" alt="GitHub Activity Graph" />
-</p>
+<details>
+  <summary>Click to reveal a fun fact about me! 😊</summary>
+  I once participated in a Kaggle competition with a machine learning model that predicted house prices — and finished in the top 10%! 🏆
+</details>
+
+---
+
+### ✨ Show Your Support
+
+If you like what you see, don't forget to give my repositories a ⭐! Your support keeps me motivated and ready to create more cool projects.
