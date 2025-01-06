@@ -1,14 +1,22 @@
 <!-- Greetings -->
 # Hi there 👋, I'm María Ángeles Magro Garrote
 
-Welcome to my GitHub profile! I'm passionate about **Machine Learning, Deep Learning**, and **Data Science**. I enjoy working on challenging problems, especially in **Neural Networks** and **Statistical Learning**.
+Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **Deep Learning**. I also enjoy working on challenging problems, especially in **Statistical Learning**.
 
 - 🎓 **Final-year Data Science and Engineering student** at **Universidad Carlos III de Madrid (UC3M)**.
 - 💼 Completed a **9-month internship** at **Vodafone Spain** in the **Digital & IT Processes department**.
 - 💻 Currently working as a Technician at [LODCoreMadrid (UC3M)](https://lodcoremadrid.es/), specialized in **open and linked data**.
 
-
 Feel free to explore my repositories and connect with me!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maria-angeles-magro-garrote/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mamgmadrid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -47,15 +55,3 @@ More repositories are available in the [repository tab](https://github.com/maria
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/maria-angeles-magro-garrote/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mamgmadrid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</p>
-
----
