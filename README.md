@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about **Machine Learning** and **De
 
 - 🎓 **Final-year Data Science and Engineering student** at **Universidad Carlos III de Madrid (UC3M)**.
 - 💼 Completed a **9-month internship** at **Vodafone Spain** in the **Digital & IT Processes department**.
-- 💻 Currently working as a Technician at [LODCoreMadrid (UC3M)](https://lodcoremadrid.es/), specialized in **open and linked data**.
+- 💻 Currently working as an Engineer Assistant at [LODCoreMadrid (UC3M)](https://lodcoremadrid.es/), specialized in **open and linked data**.
 
 Feel free to explore my repositories and connect with me!
 
