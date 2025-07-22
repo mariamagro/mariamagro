@@ -58,7 +58,7 @@ Feel free to explore my repositories and connect with me!
 | **Repository** | **Description** |
 |:--------------:|:---------------:|
 | [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
-| [**Mobile Application**](https://github.com/mifer29/TravelShield) | 📱 Android application with Firebase database developed with Kotlin. |
+| [**Mobile Application**](https://github.com/mifer29/TravelShield) | 📱 Android application developed with Kotlin and a Firebase database. |
 | [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🔄 Implementation of the PageRank algorithm using Spark in Databricks. |
 | [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboard simulating Oscars and Razzies with advanced formulas, VBA and pivot tables in Excel. |
 
