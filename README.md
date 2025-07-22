@@ -54,10 +54,11 @@ Feel free to explore my repositories and connect with me!
 | [**Porfolio_Linear_Optimization**](https://github.com/mariamagro/Porfolio_Linear_Optimization) | 🔼 Portfolio optimization with Pyomo and mathematical constraints. |
 | [**Titanic_Analysis**](https://github.com/mariamagro/Titanic_Analysis) | 🚢 Analysis of survival factors from Titanic data using R. |
 
-#### 5. **Others: Web Applications, Massive Computing, and Excel**
+#### 5. **Others: Web and Mobile Applications, Massive Computing, and Excel**
 | **Repository** | **Description** |
 |:--------------:|:---------------:|
 | [**Flask_Web_Application**](https://github.com/mariamagro/Flask_Web_Application) | 🌐 Develop a full-stack web application using Flask, SQL, HTML, and JS. |
+| [**Mobile Application**](https://github.com/mifer29/TravelShield) | 📱 Android application with Firebase database developed with Kotlin. |
 | [**PageRank_MassiveComputing**](https://github.com/mariamagro/PageRank_MassiveComputing) | 🔄 Implementation of the PageRank algorithm using Spark in Databricks. |
 | [**Excel_dashboard**](https://github.com/mariamagro/Excel_dashboard) | 📊 Dynamic dashboard simulating Oscars and Razzies with advanced formulas, VBA and pivot tables in Excel. |
 
